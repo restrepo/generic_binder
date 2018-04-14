@@ -1,5 +1,4 @@
 pyslha
 bash_kernel
 tabulate
-
-
+ipywidgets
